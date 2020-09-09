@@ -1,3 +1,23 @@
+# Executando o projeto
+
+## Yarn
+
+Atualizar as dependências
+> yarn
+
+Executar o servidor de desenvolvimento
+> yarn start
+
+## Npm
+
+O projeto foi desenvolvido com o `yarn`, mas se quiser rodar com o `npm` não tem problema, basta apagar o `.yarn-lock` e executar os comandos abaixo:
+
+Atualizar as dependências
+> npm install
+
+Executar o servidor de desenvolvimento
+> npm start
+
 # Notas para review
 
 ## Estrutura de pastas
